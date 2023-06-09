@@ -9,7 +9,7 @@ class Solution:
             return False
 
 
-
+## sorted and same length
 ## The & operator is a bitwise AND operator, not a logical AND operator. When used with boolean values, the & operator performs a bitwise operation on the binary representations of the values, which is not the intended behavior in this case.
 
 ##### To fix the issue, you should use the logical AND operator and instead of the bitwise AND operator &.
