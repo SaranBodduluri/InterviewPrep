@@ -1,2 +1,0 @@
-rolling the bullet\
-lucky candy\
