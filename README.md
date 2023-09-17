@@ -1,2 +1,3 @@
 # InterviewPrep
-Interview Prep Codes
+Interview Prep Codes\
+For notes, check notion
